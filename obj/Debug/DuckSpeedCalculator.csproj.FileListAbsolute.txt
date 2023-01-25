@@ -1,0 +1,11 @@
+C:\Users\herhe\source\repos\DuckSpeedCalculator\bin\Debug\DuckSpeedCalculator.exe.config
+C:\Users\herhe\source\repos\DuckSpeedCalculator\bin\Debug\DuckSpeedCalculator.exe
+C:\Users\herhe\source\repos\DuckSpeedCalculator\bin\Debug\DuckSpeedCalculator.pdb
+C:\Users\herhe\source\repos\DuckSpeedCalculator\obj\Debug\DuckSpeedCalculator.csproj.AssemblyReference.cache
+C:\Users\herhe\source\repos\DuckSpeedCalculator\obj\Debug\DuckSpeedCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\herhe\source\repos\DuckSpeedCalculator\obj\Debug\DuckSpeedCalculator.Form1.resources
+C:\Users\herhe\source\repos\DuckSpeedCalculator\obj\Debug\DuckSpeedCalculator.Properties.Resources.resources
+C:\Users\herhe\source\repos\DuckSpeedCalculator\obj\Debug\DuckSpeedCalculator.csproj.GenerateResource.cache
+C:\Users\herhe\source\repos\DuckSpeedCalculator\obj\Debug\DuckSpeedCalculator.csproj.CoreCompileInputs.cache
+C:\Users\herhe\source\repos\DuckSpeedCalculator\obj\Debug\DuckSpeedCalculator.exe
+C:\Users\herhe\source\repos\DuckSpeedCalculator\obj\Debug\DuckSpeedCalculator.pdb
